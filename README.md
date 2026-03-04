@@ -12,7 +12,7 @@
 
 ## 运行本项目
 1. 克隆到本地：
-   `git clone https://github.com/你的用户名/hello-github.git`
+   `git clone https://github.com/Longtiverse/hello-github.git`
 2. 查看笔记：
    直接打开 `note.txt` 即可。
 
